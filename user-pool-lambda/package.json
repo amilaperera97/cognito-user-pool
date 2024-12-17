@@ -1,0 +1,23 @@
+{
+  "name": "cognito-user-pool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "user-pool-lambda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amilaperera97/cognito-user-pool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amilaperera97/cognito-user-pool/issues"
+  },
+  "homepage": "https://github.com/amilaperera97/cognito-user-pool#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0"
+  }
+}
